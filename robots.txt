@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hospedaje-y-departamentos-los-4-hermanos.vercel.app/sitemap.xml
